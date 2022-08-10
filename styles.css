@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  font-size: 36px;
+  color: rgb(193, 196, 201);
+}
+
+h2 {
+  font-size: 30px;
+  border-bottom: 1px solid #aaaaaa;
+  color: rgb(193, 196, 201);
+}
+
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: #1a1a1b;
+  color: rgb(166, 168, 171);
+}
+
+a {
+  color: rgb(255, 196, 0);
+}
+
+ul {
+  font-size: 24px;
+}
+
+ol {
+  font-size: 24px;
+}
+
+p {
+  font-size: 24px;
+}
+
+.heading-img {
+  margin: auto;
+  display: block;
+  width: 500px;
+  height: auto;
+  border-radius: 8px;
+  border: 3px white;
+}
+
+.center-list {
+  text-align: center;
+  list-style-position: inside;
+}
